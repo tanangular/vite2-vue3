@@ -12,4 +12,5 @@
 ส่วน svelte3 (https://svelte.dev) จะ update เฉพาะเลข timer ที่เพิ่มขึ้นเท่านั้น และส่วน dummy text "Lorem Ipsum" จะไม่ถูก update เลย ตรงนี้จะเห็นว่า svlelte3 ทำเรื่อง rendering performance ได้ดีมากๆ
 
 😃👏🎉🎉👍👍👍
+
 [<img src="https://img.youtube.com/vi/pjVbgxy_qdM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=pjVbgxy_qdM)
